@@ -3,7 +3,7 @@ Hi! I am Austin Couch, I am a second-year student at Rochester Institute of Tech
 and minoring in Game Design and Development. 
 
 I am enthralled by the pull of problem solving and try my best to help others wherever I can, I absolutely 
-love collaborating on projects and find joy in the communication amonst teammates and building off of and learning through each other's ideas. 
+love collaborating on projects and find joy in the communication amongst teammates and building off of and learning through each other's ideas. 
 
 I am currently looking for a summer co-op opportunity for May-August 2022 in the computer science, software enginerring/development, or game 
 design/development fields!
