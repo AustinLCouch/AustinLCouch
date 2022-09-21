@@ -1,5 +1,5 @@
 # Hello World!
-Hi! I am Austin Couch, I am a second-year student at Rochester Institute of Technology pursuing a Bachelor's of Science majoring in Computer Science 
+Hi! I am Austin Couch, I am a third-year student at Rochester Institute of Technology pursuing a Bachelor's of Science majoring in Computer Science 
 and minoring in Game Design and Development. 
 
 I am enthralled by the pull of problem solving and try my best to help others wherever I can, I absolutely 
