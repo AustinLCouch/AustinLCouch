@@ -1,11 +1,10 @@
 # Hello World!
-Hi! I am Austin Couch, I am a third-year student at Rochester Institute of Technology pursuing a Bachelor's of Science majoring in Computer Science 
+Hi! I am Austin Couch, I am a 4th-year student at Rochester Institute of Technology pursuing a Bachelor's of Science majoring in Computer Science 
 and minoring in Game Design and Development. 
 
-I am enthralled by the pull of problem solving and try my best to help others wherever I can, I absolutely 
-love collaborating on projects and find joy in the communication amongst teammates and building off of and learning through each other's ideas. 
+I am enthralled by the pull of problem solving and try my best to help others wherever I can, I absolutely love collaborating on projects and find joy in the communication amongst teammates and building off of and learning through each other's ideas. 
 
-I am currently looking for a summer co-op opportunity for August 2024-May 2025 in the computer science, software engineering/development, or game 
+I am currently looking for a summer co-op opportunity for August 2025-May 2026 in the computer science, software engineering/development, or game 
 design/development fields!
 
 ## Projects
