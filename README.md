@@ -10,6 +10,8 @@ design/development fields!
 ## Projects
 Please take a look at my portfolio projects broken up into their separate public repositories and read their descriptions in their respective README or report files! Please keep in mind this is an evolving WIP GitHub setup and some things will be difficult to transfer from assignment deliverables into descriptive files for one-off viewing. Feel free to contact me at the information below with any questions on the provided projects or any others with objecives that could interest as their status may have prevented them from currently making my inclusion list! Thank you for your time!
 
+[InstrumentEstore](https://github.com/AustinLCouch/InstrumentEstore)
+
 ## Contact Information
 Email: _AustinLCouch@gmail.com_
 
